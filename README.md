@@ -1,0 +1,2 @@
+# ACP-JavaScript-Method
+PUBLIC
